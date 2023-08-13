@@ -1,0 +1,36 @@
+
+
+
+.navbar{background-color: #9E5008;}
+.navbar-brand{color: #ffffff;}
+.form-label{color: #9E5008;}
+h6{color:#9E5008 ;}
+
+
+
+#city {
+  font-size: 20px;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+  #form-submit button[type="submit"] {
+    background-color:#9E5008; /* set the background color of the submit button */
+    color: #fff; /* set the text color of the submit button */
+    border-color: #9E5008; /* set the border color of the submit button */
+  }
+  
+
+
+
+
+
+
